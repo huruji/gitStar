@@ -3,7 +3,7 @@
 
 上次更新时间：2017.10.01
 
-上次更新至：[https://github.com/scottjehl/Respond](https://github.com/scottjehl/Respond)约22页
+上次更新至：[https://github.com/petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor)约20页
 
 ## 前端框架
 [Weex](https://github.com/apache/incubator-weex)
@@ -11,6 +11,10 @@
 [zepto](https://github.com/madrobby/zepto)
 
 [vue](https://github.com/vuejs/vue): [http://vuejs.org](http://vuejs.org)
+
+[reaction](https://github.com/reactioncommerce/reaction)
+
+
 ## 前端库
 [impress.js](https://github.com/impress/impress.js)：浏览器端幻灯片演示
 
@@ -24,11 +28,49 @@
 
 [layer](https://github.com/sentsin/layer)：贤心的弹出层组件
 
+[artDialog](https://github.com/aui/artDialog)：网页弹出框组件
+
 [iNotify](https://github.com/jaywcjlove/iNotify)：JS 实现浏览器的 title 闪烁、滚动、声音提示、chrome、Firefox、Safari等系统通知。 [http://wangchujiang.com/iNotify/](http://wangchujiang.com/iNotify/)
 
 [viewerjs](https://github.com/fengyuanchen/viewerjs)：使用js的图像查看组件 [https://fengyuanchen.github.io/viewerjs](https://fengyuanchen.github.io/viewerjs)
 
+[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)：照片墙组件 [http://photoswipe.com](http://photoswipe.com)
+
 [prefixfree](https://github.com/LeaVerou/prefixfree)：使用js自动为浏览器中的css属性添加浏览器前缀 [http://leaverou.github.com/prefixfree/](http://leaverou.github.com/prefixfree/)
+
+[cssFx](https://github.com/imsky/cssFx)：添加css3前缀 [http://imsky.github.io/cssFx/](http://imsky.github.io/cssFx/)
+
+[art-template](https://github.com/aui/art-template)：模板引擎
+
+[pug](https://github.com/pugjs/pug)：jade更名为pug，模板引擎
+
+[mori](https://github.com/swannodette/mori)：函数式库，前端函数式攻城指南推荐
+
+[underscore](https://github.com/jashkenas/underscore)：前端函数式工具类库
+
+[coffeescript](https://github.com/jashkenas/coffeescript)
+
+[TypeScript](https://github.com/Microsoft/TypeScript)
+
+[async](https://github.com/caolan/async)
+
+[three.js](https://github.com/mrdoob/three.js)：JavaScript 3D库
+
+[bluebird](https://github.com/petkaantonov/bluebird)：Promise库
+
+[ionic](https://github.com/ionic-team/ionic)：[https://ionicframework.com/](https://ionicframework.com/)
+
+[zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)：专注于移动端的fullPage.js
+
+[store.js](https://github.com/jaywcjlove/store.js)：对localstorage的封装
+
+
+
+## UI框架
+[bootstrap](https://github.com/twbs/bootstrap)
+
+
+
 
 ## CSS库、框架
 [animate.css](https://github.com/daneden/animate.css)：CSS3动画库
@@ -53,10 +95,16 @@
 
 [Respond](https://github.com/scottjehl/Respond)：使IE6-IE8支持CSS3的媒体查询
 
+[colors](https://github.com/mrmrs/colors)：各种颜色的CSS库
+
 ## 前端工程化工具
 [bower](https://github.com/bower/bower)：[http://bower.io](http://bower.io)
 
 [babel](https://github.com/babel/babel)：[https://babeljs.io/](https://babeljs.io/)
+
+[gulp](https://github.com/gulpjs/gulp)：[http://gulpjs.com](http://gulpjs.com)
+
+
 
 ## 代码规范类
 [Front-End-Standards](https://github.com/hzlzh/Front-End-Standards)：适用于小团队的前端规范 [http://front-end-standards.com/](http://front-end-standards.com/)
@@ -82,6 +130,10 @@
 
 [express](https://github.com/expressjs/express)
 
+[koa](https://github.com/koajs/koa)
+
+[thinkjs](https://github.com/thinkjs/thinkjs)：360的MVC框架
+
 [nodemailer](https://github.com/nodemailer/nodemailer)：使用Node.js发送邮件 [http://nodemailer.com/](http://nodemailer.com/)
 
 ## Express中间件
@@ -97,17 +149,52 @@
 
 [Nodejs-Express-Mysql](https://github.com/biwow/Nodejs-Express-Mysql)：Nodejs + Express + Ejs + Mysql 后台管理系统
 
+[NEMBlog](https://github.com/9958/NEMBlog)：Node.js + Express.js + Mysql搭建的博客 [http://9958.pw/](http://9958.pw/)
+
+[example-node](https://github.com/hubwiz/example-node)：一个简单的电商网站demo，使用了nodejs, express, mongodb, mongoose等功能模块
+
+
+
 ## Node.js案例
 [nodeclub](https://github.com/cnodejs/nodeclub)：CNode社区源码
 
+[nodecms](https://github.com/linksgo2011/nodecms)：Node.js + MySQL开发的CMS
 
 ## Node.js教程
 [N-blog](https://github.com/nswbmw/N-blog)：一起学 Node.js,使用Node.js搭建博客
 
 [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 
+[Node.js开发加密货币](https://github.com/imfly/bitcoin-on-nodejs)
 
 
+
+## Node.js
+[smtp-server](https://github.com/nodemailer/smtp-server)：搭建smtp服务器
+
+[hexo](https://github.com/hexojs/hexo)：静态博客
+
+[node-schedule](https://github.com/node-schedule/node-schedule)：Node.js的定时任务，定时执行任务
+
+[pm2](https://github.com/Unitech/pm2)：进程守护
+
+[node-webcrawler](https://github.com/satrong/node-webcrawler)：网页版爬虫工具
+
+[testcafe](https://github.com/DevExpress/testcafe)：Node.js端到端测试工具
+
+[request](https://github.com/request/request)：Node.js HTTP请求库
+
+[connect](https://github.com/senchalabs/connect)
+
+[node-formidable](https://github.com/felixge/node-formidable)：文件上传组件
+
+[mindb](https://github.com/iwillwen/mindb)：javascript写的数据库
+
+[mocha](https://github.com/mochajs/mocha)：测试框架mocha
+
+[connect-mongo](https://github.com/jdesboeufs/connect-mongo)
+
+[node-supervisor](https://github.com/petruisfan/node-supervisor)：监视文件修改后自动重启node服务器，开发时很有用
 
 ## Webpack教程
 [webpack-MultiplePage](https://github.com/vhtml/webpack-MultiplePage)：基于webpack的前端工程化开发之多页站点篇（二）
@@ -119,12 +206,25 @@
 
 [canvas-nest.js](https://github.com/hustcc/canvas-nest.js)：Canvas绘制的网页背景 [http://git.hust.cc/canvas-nest.js/](http://git.hust.cc/canvas-nest.js/)
 
+[zrender](https://github.com/ecomfe/zrender)：canvas实现的图表
+
+[echarts](https://github.com/ecomfe/echarts)：百度著名的图标库
+
+
 
 ## JavaScript教程、书籍
 [es6tutorial](https://github.com/ruanyf/es6tutorial)：阮一峰ES6教程 [http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/)
 
+[前端开发笔记本](https://github.com/li-xinyang/FEND_Note)：[http://li-xinyang.gitbooks.io/frontend-notebook/](http://li-xinyang.gitbooks.io/frontend-notebook/)
+
+[前端经典高质量的电子书](https://github.com/threerocks/studyFiles)
+
+
+
 ## 游戏
 [pal.js](https://github.com/Sivory/pal.js)：仙剑奇侠传JS重制版项目，移植自SDLPAL项目，采用HTML5音视频接口开发 [http://sivory.github.io/pal.js/](http://sivory.github.io/pal.js/)
+
+[Games](https://github.com/LIUBOliubo/Games)：网页小游戏200款
 
 
 
@@ -149,6 +249,10 @@
 
 [awesome-design](https://github.com/gztchan/awesome-design)：设计的awesome
 
+[awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)：微信小程序
+
+
+
 ## 收集系列
 [github-FE-project](https://github.com/hawx1993/github-FE-project)：GitHub 值得收藏的前端项目 [http://microjs.com/](http://microjs.com/)
 
@@ -167,6 +271,8 @@
 [CS_Offer](https://github.com/xuelangZF/CS_Offer)：计算机学科基础知识和主流编程语言相关内容的总结
 
 [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)：设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等
+
+[大前端工具集](https://github.com/nieweidong/fetool)
 
 ## 博客系列
 [CSS魔法](https://github.com/cssmagic/blog)：[http://blog.cssmagic.net/](http://blog.cssmagic.net/)
@@ -213,3 +319,11 @@
 
 ## Chrome教程
 [CN-Chrome-DevTools](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)：Chrome 开发者工具中文手册
+
+
+## 编辑器插件
+[csscomb-for-sublime](https://github.com/csscomb/csscomb-for-sublime)：css格式化插件
+
+## RN例子
+[react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
+

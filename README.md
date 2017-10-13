@@ -3,7 +3,7 @@
 
 上次更新时间：2017.10.14
 
-上次更新至：[https://github.com/TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)约15页
+上次更新至：[https://github.com/lifesinger/blog](https://github.com/lifesinger/blog)约14页
 
 ## JavaScript
 ### 库
@@ -94,6 +94,14 @@
 [timeago.js](https://github.com/hustcc/timeago.js):时间差插件
 
 [gray](https://github.com/karlhorky/gray)：在所有浏览器中实现图片灰度的效果
+
+[radarChart](https://github.com/dengzhirong/radarChart)：雷达图生成插件（原生js）
+
+[virtual-dom](https://github.com/Matt-Esch/virtual-dom)：虚拟DOM
+
+[sugar](https://github.com/tangbc/sugar)：类似vue的MVVM框架
+
+[seajs](https://github.com/seajs/seajs)：CMD的实现
 
 
 
@@ -372,6 +380,9 @@
 
 [多人在线对战坦克大战](https://github.com/tadast/webattle.js)：Node.js和HTML5构建 [https://github.com/tadast/webattle.js](https://github.com/tadast/webattle.js)
 
+[FlyBird](https://github.com/YangQiGitHub/FlyBird)
+
+
 
 ## React学习资料
 [example-react](https://github.com/dingyiming/example-react)
@@ -388,6 +399,10 @@
 ## Gulp插件
 [gulp-uglify](https://github.com/terinjokes/gulp-uglify)：压缩文件
 
+[gulp-imageisux](https://github.com/targetkiller/gulp-imageisux)：智图
+
+[gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin)：压缩图片
+
 ## awesome系列
 [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)：JavaScript 资源大全中文版
 
@@ -399,6 +414,7 @@
 
 [awesome-vue](https://github.com/vuejs/awesome-vue)
 
+[awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 
 ## 收集系列
 [github-FE-project](https://github.com/hawx1993/github-FE-project)：GitHub 值得收藏的前端项目 [http://microjs.com/](http://microjs.com/)
@@ -441,7 +457,7 @@
 
 [cc](https://github.com/ccforward/cc)：包含博客和有用的代码库
 
-
+[玉伯博客](https://github.com/lifesinger/blog)
 
 ## 算法
 [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)：算法可视化 [http://algo-visualizer.jasonpark.me](http://algo-visualizer.jasonpark.me)
@@ -488,6 +504,8 @@
 
 [resume.github.com](https://github.com/resume/resume.github.com)：根据github信息生成简历
 
+[SQL-exercise](https://github.com/XD-DENG/SQL-exercise)：SQL练习题
+
 ## 安卓例子
 [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)：知乎日报
 
@@ -520,6 +538,8 @@
 [基于vue 的豆瓣 手机站](https://github.com/eltonchan/vueApp)：[www.jimstyle.cn](www.jimstyle.cn)
 
 [「daza.io」前端，使用 Vue.js + Vuex 开发 ](https://github.com/lijy91/daza-frontend)：[http://daza.blankapp.org](http://daza.blankapp.org)
+
+[vue-WeChat](https://github.com/zhaohaodang/vue-WeChat)：一款基于Vue2.0高仿微信App的单页应用
 
 ## 其他
 [mui](最接近原生APP体验的高性能框架)：[http://dev.dcloud.net.cn/mui/](http://dev.dcloud.net.cn/mui/)

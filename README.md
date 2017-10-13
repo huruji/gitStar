@@ -1,9 +1,9 @@
 # gitStar
 个人在github上star过的项目整理，每周更新一次
 
-上次更新时间：2017.10.01
+上次更新时间：2017.10.14
 
-上次更新至：[https://github.com/petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor)约20页
+上次更新至：[https://github.com/TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)约15页
 
 ## 前端框架
 [Weex](https://github.com/apache/incubator-weex)
@@ -14,6 +14,17 @@
 
 [reaction](https://github.com/reactioncommerce/reaction)
 
+[angular](https://github.com/angular/angular)
+
+[angular.js](https://github.com/angular/angular.js)
+
+## Vue系列
+
+[vue-router](https://github.com/vuejs/vue-router)
+
+[vue-devtools](https://github.com/vuejs/vue-devtools)：chrome的vue插件
+
+[Vue.js教程](https://github.com/keepfool/vue-tutorials)
 
 ## 前端库
 [impress.js](https://github.com/impress/impress.js)：浏览器端幻灯片演示
@@ -29,6 +40,8 @@
 [layer](https://github.com/sentsin/layer)：贤心的弹出层组件
 
 [artDialog](https://github.com/aui/artDialog)：网页弹出框组件
+
+[sweetalert](https://github.com/t4t5/sweetalert)：弹出框
 
 [iNotify](https://github.com/jaywcjlove/iNotify)：JS 实现浏览器的 title 闪烁、滚动、声音提示、chrome、Firefox、Safari等系统通知。 [http://wangchujiang.com/iNotify/](http://wangchujiang.com/iNotify/)
 
@@ -48,6 +61,8 @@
 
 [underscore](https://github.com/jashkenas/underscore)：前端函数式工具类库
 
+[lodash](https://github.com/lodash/lodash)：前端函数式工具类库
+
 [coffeescript](https://github.com/jashkenas/coffeescript)
 
 [TypeScript](https://github.com/Microsoft/TypeScript)
@@ -64,12 +79,39 @@
 
 [store.js](https://github.com/jaywcjlove/store.js)：对localstorage的封装
 
+[markdown-js](https://github.com/evilstreak/markdown-js)：解析markdown
 
+[mazimd](https://github.com/xcatliu/mazimd)：码字 md • 干净精致的 Markdown 编辑器 [http://mazimd.com](http://mazimd.com)
+
+[moment](https://github.com/moment/moment)：时间转换
+
+[jquery](https://github.com/jquery/jquery)
+
+[flv.js](https://github.com/Bilibili/flv.js)
+
+[underlineJS](https://github.com/wentin/underlineJS)：张文婷的undelinejs
+
+[layui](https://github.com/sentsin/layui)
+
+[rainyday.js](https://github.com/maroslaw/rainyday.js)：模仿窗户上下雨的效果
+
+[fabric.js](https://github.com/kangax/fabric.js)：javascript的canvas库，svg和canvas互转
+
+[fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+
+[quill](https://github.com/quilljs/quill): [https://quilljs.com](https://quilljs.com)
+
+[browserslist](https://github.com/ai/browserslist)
 
 ## UI框架
 [bootstrap](https://github.com/twbs/bootstrap)
 
 
+## Webpack教程
+
+[webpack-for-fools](https://github.com/vikingmute/webpack-for-fools)：webpack傻瓜式指南
+
+## Angular
 
 
 ## CSS库、框架
@@ -97,6 +139,21 @@
 
 [colors](https://github.com/mrmrs/colors)：各种颜色的CSS库
 
+[loading](https://github.com/jxnblk/loading)：loading动画
+
+[QMUI_Web](https://github.com/Tencent/QMUI_Web)：QQ邮箱的提高 UI 开发效率、快速产生项目 UI 的前端框架，[http://qmuiteam.com/web](http://qmuiteam.com/web)
+
+[amazeui](https://github.com/amazeui/amazeui)：Amaze UI 是基于社区开源项目构建的一个跨屏前端框架。
+
+[i-Cut](https://github.com/zhenbinjing/i-Cut)：一个快速成形，全终端适配的CSS框架 [https://i-cut.cc](https://i-cut.cc)
+
+## CSS预处理器
+
+[sass](https://github.com/sass/sass)
+
+[koala](https://github.com/oklai/koala)：前端预处理器语言图形编译工具，支持Less、Sass、Compass、CoffeeScript，
+
+
 ## 前端工程化工具
 [bower](https://github.com/bower/bower)：[http://bower.io](http://bower.io)
 
@@ -104,7 +161,9 @@
 
 [gulp](https://github.com/gulpjs/gulp)：[http://gulpjs.com](http://gulpjs.com)
 
+[yeoman](https://github.com/yeoman/yeoman)：[http://yeoman.io](http://yeoman.io)
 
+[tmt-workflow](https://github.com/Tencent/tmt-workflow)：腾讯推出的一个基于 Gulp(v4.0)、高效、跨平台(macOS & Win)、可定制的前端工作流程。
 
 ## 代码规范类
 [Front-End-Standards](https://github.com/hzlzh/Front-End-Standards)：适用于小团队的前端规范 [http://front-end-standards.com/](http://front-end-standards.com/)
@@ -136,9 +195,14 @@
 
 [nodemailer](https://github.com/nodemailer/nodemailer)：使用Node.js发送邮件 [http://nodemailer.com/](http://nodemailer.com/)
 
+[socket.io](https://github.com/socketio/socket.io)
+
+[egg](https://github.com/eggjs/egg)
+
 ## Express中间件
 [body-parser](https://github.com/expressjs/body-parser)：表单数据解析
 
+[cookie-parser](https://github.com/expressjs/cookie-parser)
 
 ## Express例子
 [express-blog](https://github.com/xwlyy/express-blog)：单页博客后端，用了express、mongodb [https://express-vue-blog.herokuapp.com](https://express-vue-blog.herokuapp.com)
@@ -153,12 +217,22 @@
 
 [example-node](https://github.com/hubwiz/example-node)：一个简单的电商网站demo，使用了nodejs, express, mongodb, mongoose等功能模块
 
+[nodejs-music-player](https://github.com/AdamsMao/nodejs-music-player)：音乐播放
 
+[QQ](https://github.com/AdamsMao/QQ)：nodejs, express, socket.io仿QQ
+
+
+## koa例子
+[easyclub](https://github.com/k-dylan/easyclub)：论坛系统
 
 ## Node.js案例
 [nodeclub](https://github.com/cnodejs/nodeclub)：CNode社区源码
 
 [nodecms](https://github.com/linksgo2011/nodecms)：Node.js + MySQL开发的CMS
+
+[venmusic](https://github.com/zvenshy/venmusic)：一个调用API的音乐搜索node模块
+
+[htmljs](https://github.com/xinyu198736/htmljs)：前端乱炖社区源码
 
 ## Node.js教程
 [N-blog](https://github.com/nswbmw/N-blog)：一起学 Node.js,使用Node.js搭建博客
@@ -196,6 +270,26 @@
 
 [node-supervisor](https://github.com/petruisfan/node-supervisor)：监视文件修改后自动重启node服务器，开发时很有用
 
+[node-mongodb-native](https://github.com/mongodb/node-mongodb-native)：原生的Node.js的mongodb引擎
+
+[cheerio](https://github.com/cheeriojs/cheerio)：在server端使用jquery风格操作html
+
+[iisnode](https://github.com/tjanczuk/iisnode)：使windows上的IIS支持Node.js程序
+
+[node-static](https://github.com/cloudhead/node-static)：静态资源服务器
+
+[mysql](https://github.com/mysqljs/mysql)：Node.js的mysql引擎
+
+[mongoose](https://github.com/Automattic/mongoose)
+
+[passport](https://github.com/jaredhanson/passport)
+
+[node_redis](https://github.com/NodeRedis/node_redis)：Node.js的redis引擎
+
+[node-glob](https://github.com/isaacs/node-glob)
+
+[RAP](https://github.com/thx/RAP)：Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
+
 ## Webpack教程
 [webpack-MultiplePage](https://github.com/vhtml/webpack-MultiplePage)：基于webpack的前端工程化开发之多页站点篇（二）
 
@@ -219,14 +313,24 @@
 
 [前端经典高质量的电子书](https://github.com/threerocks/studyFiles)
 
+[TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial)：[https://ts.xcatliu.com/](https://ts.xcatliu.com/)
 
+[30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
+
+[Intellij-IDEA-F2E](https://github.com/Damao/Intellij-IDEA-F2E)：webstorm指南
+
+[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
+[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet)
 
 ## 游戏
 [pal.js](https://github.com/Sivory/pal.js)：仙剑奇侠传JS重制版项目，移植自SDLPAL项目，采用HTML5音视频接口开发 [http://sivory.github.io/pal.js/](http://sivory.github.io/pal.js/)
 
 [Games](https://github.com/LIUBOliubo/Games)：网页小游戏200款
 
+[2048](https://github.com/alicefengqiud/2048)：js版的2048
 
+[多人在线对战坦克大战](https://github.com/tadast/webattle.js)：Node.js和HTML5构建 [https://github.com/tadast/webattle.js](https://github.com/tadast/webattle.js)
 
 
 ## React学习资料
@@ -241,6 +345,8 @@
 ## Gulp教程
 [gulp-book](https://github.com/nimojs/gulp-book)：gulp 入门指南
 
+## Gulp插件
+[gulp-uglify](https://github.com/terinjokes/gulp-uglify)：压缩文件
 
 ## awesome系列
 [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)：JavaScript 资源大全中文版
@@ -251,6 +357,7 @@
 
 [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)：微信小程序
 
+[awesome-vue](https://github.com/vuejs/awesome-vue)
 
 
 ## 收集系列
@@ -274,6 +381,15 @@
 
 [大前端工具集](https://github.com/nieweidong/fetool)
 
+[node.js中文资料导航](https://github.com/youyudehexie/node123)
+
+[use-gulp](https://github.com/Platform-CUF/use-gulp)
+
+[computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript)
+
+[WebComponent](https://github.com/zhiqiang21/WebComponent)：常用组件
+
+
 ## 博客系列
 [CSS魔法](https://github.com/cssmagic/blog)：[http://blog.cssmagic.net/](http://blog.cssmagic.net/)
 
@@ -282,6 +398,10 @@
 [张云龙博客](https://github.com/fouber/blog)
 
 [徐飞博客](https://github.com/xufei/blog)
+
+[cc](https://github.com/ccforward/cc)：包含博客和有用的代码库
+
+
 
 ## 算法
 [AlgorithmVisualizer](https://github.com/parkjs814/AlgorithmVisualizer)：算法可视化 [http://algo-visualizer.jasonpark.me](http://algo-visualizer.jasonpark.me)
@@ -306,6 +426,26 @@
 
 [bing](https://github.com/xCss/bing)：Bing 壁纸 API，可以在这里下载bing的壁纸 [https://github.com/xCss/bing](https://github.com/xCss/bing)
 
+[awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts)
+
+[gitmoji](https://github.com/carloscuesta/gitmoji)：git提交信息中添加表情 [https://gitmoji.carloscuesta.me](https://gitmoji.carloscuesta.me)
+
+[RESTful API 设计参考文献列表](https://github.com/aisuhua/restful-api-design-references)：可帮助你更加彻底的了解REST风格的接口设计
+
+[哔哩哔哩开放接口第三方文档](https://github.com/fython/BilibiliAPIDocs)
+
+[github-awards](https://github.com/vdaubry/github-awards)发现自己在Github的排名 [http://git-awards.com](http://git-awards.com)
+
+[gitstar-ranking](https://github.com/k0kubun/gitstar-ranking)：github排名查看 [https://github.com/k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking)
+
+[用Node.js实现余票查询并用邮件通知](https://github.com/vanishcode/12306)
+
+[musicafe 音乐咖](https://github.com/LIU9293/musicafe)：网易、虾米、QQ音乐一处搞定
+
+[musicAPI](https://github.com/LIU9293/musicAPI)：虾米、网易、qq音乐API
+
+[StuQ 程序员技能图谱](https://github.com/TeamStuQ/skill-map)：
+
 ## 安卓例子
 [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)：知乎日报
 
@@ -327,3 +467,19 @@
 ## RN例子
 [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 
+
+## Vue例子
+[Vue 音乐搜索、播放 Demo](https://github.com/Sioxas/vue-music)
+
+[酷狗音乐App](https://github.com/lavyun/vue-demo-kugou)
+
+[搜索大全](https://github.com/lavyun/vue-demo-search)
+
+[基于vue 的豆瓣 手机站](https://github.com/eltonchan/vueApp)：[www.jimstyle.cn](www.jimstyle.cn)
+
+[「daza.io」前端，使用 Vue.js + Vuex 开发 ](https://github.com/lijy91/daza-frontend)：[http://daza.blankapp.org](http://daza.blankapp.org)
+
+## 其他
+[mui](最接近原生APP体验的高性能框架)：[http://dev.dcloud.net.cn/mui/](http://dev.dcloud.net.cn/mui/)
+
+[coding-interview-university](https://github.com/jwasham/coding-interview-university)：如何准备google的面试

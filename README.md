@@ -5,28 +5,8 @@
 
 上次更新至：[https://github.com/TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)约15页
 
-## 前端框架
-[Weex](https://github.com/apache/incubator-weex)
-
-[zepto](https://github.com/madrobby/zepto)
-
-[vue](https://github.com/vuejs/vue): [http://vuejs.org](http://vuejs.org)
-
-[reaction](https://github.com/reactioncommerce/reaction)
-
-[angular](https://github.com/angular/angular)
-
-[angular.js](https://github.com/angular/angular.js)
-
-## Vue系列
-
-[vue-router](https://github.com/vuejs/vue-router)
-
-[vue-devtools](https://github.com/vuejs/vue-devtools)：chrome的vue插件
-
-[Vue.js教程](https://github.com/keepfool/vue-tutorials)
-
-## 前端库
+## JavaScript
+### 库
 [impress.js](https://github.com/impress/impress.js)：浏览器端幻灯片演示
 
 [nodeppt](https://github.com/ksky521/nodeppt)：使用markdown来创建ppt
@@ -43,6 +23,10 @@
 
 [sweetalert](https://github.com/t4t5/sweetalert)：弹出框
 
+[dialog-polyfill](https://github.com/GoogleChrome/dialog-polyfill)：弹出框
+
+[MDialog](https://github.com/webjyh/MDialog)：弹出框
+
 [iNotify](https://github.com/jaywcjlove/iNotify)：JS 实现浏览器的 title 闪烁、滚动、声音提示、chrome、Firefox、Safari等系统通知。 [http://wangchujiang.com/iNotify/](http://wangchujiang.com/iNotify/)
 
 [viewerjs](https://github.com/fengyuanchen/viewerjs)：使用js的图像查看组件 [https://fengyuanchen.github.io/viewerjs](https://fengyuanchen.github.io/viewerjs)
@@ -56,6 +40,8 @@
 [art-template](https://github.com/aui/art-template)：模板引擎
 
 [pug](https://github.com/pugjs/pug)：jade更名为pug，模板引擎
+
+[laytpl](https://github.com/layui/laytpl)：贤心的模板引擎 [http://laytpl.layui.com/](http://laytpl.layui.com/)
 
 [mori](https://github.com/swannodette/mori)：函数式库，前端函数式攻城指南推荐
 
@@ -103,18 +89,16 @@
 
 [browserslist](https://github.com/ai/browserslist)
 
-## UI框架
-[bootstrap](https://github.com/twbs/bootstrap)
+[MProgress.js](https://github.com/lightningtgc/MProgress.js)：使用js和css3构建的进度条
+
+[timeago.js](https://github.com/hustcc/timeago.js):时间差插件
+
+[gray](https://github.com/karlhorky/gray)：在所有浏览器中实现图片灰度的效果
 
 
-## Webpack教程
 
-[webpack-for-fools](https://github.com/vikingmute/webpack-for-fools)：webpack傻瓜式指南
-
-## Angular
-
-
-## CSS库、框架
+## CSS
+### 库、框架
 [animate.css](https://github.com/daneden/animate.css)：CSS3动画库
 
 [magic](https://github.com/miniMAC/magic)：另一个CSS3动画库
@@ -147,103 +131,17 @@
 
 [i-Cut](https://github.com/zhenbinjing/i-Cut)：一个快速成形，全终端适配的CSS框架 [https://i-cut.cc](https://i-cut.cc)
 
-## CSS预处理器
-
+### CSS预处理器
 [sass](https://github.com/sass/sass)
 
 [koala](https://github.com/oklai/koala)：前端预处理器语言图形编译工具，支持Less、Sass、Compass、CoffeeScript，
 
 
-## 前端工程化工具
-[bower](https://github.com/bower/bower)：[http://bower.io](http://bower.io)
-
-[babel](https://github.com/babel/babel)：[https://babeljs.io/](https://babeljs.io/)
-
-[gulp](https://github.com/gulpjs/gulp)：[http://gulpjs.com](http://gulpjs.com)
-
-[yeoman](https://github.com/yeoman/yeoman)：[http://yeoman.io](http://yeoman.io)
-
-[tmt-workflow](https://github.com/Tencent/tmt-workflow)：腾讯推出的一个基于 Gulp(v4.0)、高效、跨平台(macOS & Win)、可定制的前端工作流程。
-
-## 代码规范类
-[Front-End-Standards](https://github.com/hzlzh/Front-End-Standards)：适用于小团队的前端规范 [http://front-end-standards.com/](http://front-end-standards.com/)
-
-[Airbnb JavaScript Style Guide 中文版](https://github.com/sivan/javascript-style-guide)
-
-
-## 编辑器
-[https://github.com/lepture/editor](https://github.com/lepture/editor)
-
-[editor.md](https://github.com/pandao/editor.md):markDown编辑器
-
-[Tiny-editor](https://github.com/lipten/Tiny-editor)：基于Ace可实时运行的代码编辑器，相当于开源的jsFiddle，可以打造属于自己的代码编辑器！ [http://lipten.link/demo/editor/](http://lipten.link/demo/editor/)
-
-
-
-## hexo主题
-[hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
-
-
-## Node.js框架
-[anywhere](https://github.com/JacksonTian/anywhere): 随启随用的静态文件服务器
-
-[express](https://github.com/expressjs/express)
-
-[koa](https://github.com/koajs/koa)
-
-[thinkjs](https://github.com/thinkjs/thinkjs)：360的MVC框架
-
-[nodemailer](https://github.com/nodemailer/nodemailer)：使用Node.js发送邮件 [http://nodemailer.com/](http://nodemailer.com/)
-
-[socket.io](https://github.com/socketio/socket.io)
-
-[egg](https://github.com/eggjs/egg)
-
-## Express中间件
-[body-parser](https://github.com/expressjs/body-parser)：表单数据解析
-
-[cookie-parser](https://github.com/expressjs/cookie-parser)
-
-## Express例子
-[express-blog](https://github.com/xwlyy/express-blog)：单页博客后端，用了express、mongodb [https://express-vue-blog.herokuapp.com](https://express-vue-blog.herokuapp.com)
-
-[blog-by-nodejs](https://github.com/chickencyj/blog-by-nodejs)：NodeJs + Mongoose + Express + jQuery + BootStrap + Ejs + Webpack搭建多人博客
-
-[expressjs-blog](https://github.com/longmenwaideyu/expressjs-blog)：用expressjs开发的个人博客系统
-
-[Nodejs-Express-Mysql](https://github.com/biwow/Nodejs-Express-Mysql)：Nodejs + Express + Ejs + Mysql 后台管理系统
-
-[NEMBlog](https://github.com/9958/NEMBlog)：Node.js + Express.js + Mysql搭建的博客 [http://9958.pw/](http://9958.pw/)
-
-[example-node](https://github.com/hubwiz/example-node)：一个简单的电商网站demo，使用了nodejs, express, mongodb, mongoose等功能模块
-
-[nodejs-music-player](https://github.com/AdamsMao/nodejs-music-player)：音乐播放
-
-[QQ](https://github.com/AdamsMao/QQ)：nodejs, express, socket.io仿QQ
-
-
-## koa例子
-[easyclub](https://github.com/k-dylan/easyclub)：论坛系统
-
-## Node.js案例
-[nodeclub](https://github.com/cnodejs/nodeclub)：CNode社区源码
-
-[nodecms](https://github.com/linksgo2011/nodecms)：Node.js + MySQL开发的CMS
-
-[venmusic](https://github.com/zvenshy/venmusic)：一个调用API的音乐搜索node模块
-
-[htmljs](https://github.com/xinyu198736/htmljs)：前端乱炖社区源码
-
-## Node.js教程
-[N-blog](https://github.com/nswbmw/N-blog)：一起学 Node.js,使用Node.js搭建博客
-
-[Node.js 包教不包会](https://github.com/alsotang/node-lessons)
-
-[Node.js开发加密货币](https://github.com/imfly/bitcoin-on-nodejs)
 
 
 
 ## Node.js
+### 库、模块
 [smtp-server](https://github.com/nodemailer/smtp-server)：搭建smtp服务器
 
 [hexo](https://github.com/hexojs/hexo)：静态博客
@@ -290,6 +188,142 @@
 
 [RAP](https://github.com/thx/RAP)：Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 
+
+### Node.js教程
+[N-blog](https://github.com/nswbmw/N-blog)：一起学 Node.js,使用Node.js搭建博客
+
+[Node.js 包教不包会](https://github.com/alsotang/node-lessons)
+
+[Node.js开发加密货币](https://github.com/imfly/bitcoin-on-nodejs)
+
+### Node.js框架
+[anywhere](https://github.com/JacksonTian/anywhere): 随启随用的静态文件服务器
+
+[express](https://github.com/expressjs/express)
+
+[koa](https://github.com/koajs/koa)
+
+[thinkjs](https://github.com/thinkjs/thinkjs)：360的MVC框架
+
+[nodemailer](https://github.com/nodemailer/nodemailer)：使用Node.js发送邮件 [http://nodemailer.com/](http://nodemailer.com/)
+
+[socket.io](https://github.com/socketio/socket.io)
+
+[egg](https://github.com/eggjs/egg)
+
+### Express中间件
+[body-parser](https://github.com/expressjs/body-parser)：表单数据解析
+
+[cookie-parser](https://github.com/expressjs/cookie-parser)
+
+### Express例子
+[express-blog](https://github.com/xwlyy/express-blog)：单页博客后端，用了express、mongodb [https://express-vue-blog.herokuapp.com](https://express-vue-blog.herokuapp.com)
+
+[blog-by-nodejs](https://github.com/chickencyj/blog-by-nodejs)：NodeJs + Mongoose + Express + jQuery + BootStrap + Ejs + Webpack搭建多人博客
+
+[expressjs-blog](https://github.com/longmenwaideyu/expressjs-blog)：用expressjs开发的个人博客系统
+
+[Nodejs-Express-Mysql](https://github.com/biwow/Nodejs-Express-Mysql)：Nodejs + Express + Ejs + Mysql 后台管理系统
+
+[NEMBlog](https://github.com/9958/NEMBlog)：Node.js + Express.js + Mysql搭建的博客 [http://9958.pw/](http://9958.pw/)
+
+[example-node](https://github.com/hubwiz/example-node)：一个简单的电商网站demo，使用了nodejs, express, mongodb, mongoose等功能模块
+
+[nodejs-music-player](https://github.com/AdamsMao/nodejs-music-player)：音乐播放
+
+[QQ](https://github.com/AdamsMao/QQ)：nodejs, express, socket.io仿QQ
+
+### koa例子
+[easyclub](https://github.com/k-dylan/easyclub)：论坛系统
+
+### Node.js案例
+[nodeclub](https://github.com/cnodejs/nodeclub)：CNode社区源码
+
+[nodecms](https://github.com/linksgo2011/nodecms)：Node.js + MySQL开发的CMS
+
+[venmusic](https://github.com/zvenshy/venmusic)：一个调用API的音乐搜索node模块
+
+[htmljs](https://github.com/xinyu198736/htmljs)：前端乱炖社区源码
+
+
+
+
+
+## 前端框架
+[Weex](https://github.com/apache/incubator-weex)
+
+[zepto](https://github.com/madrobby/zepto)
+
+[vue](https://github.com/vuejs/vue): [http://vuejs.org](http://vuejs.org)
+
+[reaction](https://github.com/reactioncommerce/reaction)
+
+[angular](https://github.com/angular/angular)
+
+[angular.js](https://github.com/angular/angular.js)
+
+
+
+## Vue系列
+
+[vue-router](https://github.com/vuejs/vue-router)
+
+[vue-devtools](https://github.com/vuejs/vue-devtools)：chrome的vue插件
+
+[Vue.js教程](https://github.com/keepfool/vue-tutorials)
+
+[vuex](https://github.com/vuejs/vuex)
+
+## 前端库
+
+
+## UI框架
+[bootstrap](https://github.com/twbs/bootstrap)
+
+
+## Webpack教程
+
+[webpack-for-fools](https://github.com/vikingmute/webpack-for-fools)：webpack傻瓜式指南
+
+## Angular
+[material2](https://github.com/angular/material2)：Material风格的angular组件
+
+[Angular-news](https://github.com/windiest/Angular-news)：基于angular.js,weui和node.js重写的新闻客户端
+
+
+
+## 前端工程化工具
+[bower](https://github.com/bower/bower)：[http://bower.io](http://bower.io)
+
+[babel](https://github.com/babel/babel)：[https://babeljs.io/](https://babeljs.io/)
+
+[gulp](https://github.com/gulpjs/gulp)：[http://gulpjs.com](http://gulpjs.com)
+
+[yeoman](https://github.com/yeoman/yeoman)：[http://yeoman.io](http://yeoman.io)
+
+[tmt-workflow](https://github.com/Tencent/tmt-workflow)：腾讯推出的一个基于 Gulp(v4.0)、高效、跨平台(macOS & Win)、可定制的前端工作流程。
+
+## 代码规范类
+[Front-End-Standards](https://github.com/hzlzh/Front-End-Standards)：适用于小团队的前端规范 [http://front-end-standards.com/](http://front-end-standards.com/)
+
+[Airbnb JavaScript Style Guide 中文版](https://github.com/sivan/javascript-style-guide)
+
+
+## 编辑器
+[https://github.com/lepture/editor](https://github.com/lepture/editor)
+
+[editor.md](https://github.com/pandao/editor.md):markDown编辑器
+
+[Tiny-editor](https://github.com/lipten/Tiny-editor)：基于Ace可实时运行的代码编辑器，相当于开源的jsFiddle，可以打造属于自己的代码编辑器！ [http://lipten.link/demo/editor/](http://lipten.link/demo/editor/)
+
+[Visual Studio Code Guide](https://github.com/i5ting/vsc)：[http://i5ting.github.io/vsc/](http://i5ting.github.io/vsc/)
+
+
+## hexo主题
+[hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
+
+
+
 ## Webpack教程
 [webpack-MultiplePage](https://github.com/vhtml/webpack-MultiplePage)：基于webpack的前端工程化开发之多页站点篇（二）
 
@@ -322,6 +356,12 @@
 [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
 [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet)
+
+[Angular2系列教程](https://github.com/lewis617/angular2-tutorial)
+
+[git commit emoji 使用指南](https://github.com/liuchengxu/git-commit-emoji-cn)
+
+[十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)：使用js、py、go实现
 
 ## 游戏
 [pal.js](https://github.com/Sivory/pal.js)：仙剑奇侠传JS重制版项目，移植自SDLPAL项目，采用HTML5音视频接口开发 [http://sivory.github.io/pal.js/](http://sivory.github.io/pal.js/)
@@ -446,6 +486,8 @@
 
 [StuQ 程序员技能图谱](https://github.com/TeamStuQ/skill-map)：
 
+[resume.github.com](https://github.com/resume/resume.github.com)：根据github信息生成简历
+
 ## 安卓例子
 [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify)：知乎日报
 
@@ -483,3 +525,7 @@
 [mui](最接近原生APP体验的高性能框架)：[http://dev.dcloud.net.cn/mui/](http://dev.dcloud.net.cn/mui/)
 
 [coding-interview-university](https://github.com/jwasham/coding-interview-university)：如何准备google的面试
+
+[Play-with-Algorithms](https://github.com/liuyubobobo/Play-with-Algorithms)
+
+[electron](https://github.com/electron/electron)
